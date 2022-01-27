@@ -3,7 +3,7 @@
 
 class token {
 public:
-	void token(type, value, position){
+	void token(std::string type, int value, int position){
 
 	}
 };
